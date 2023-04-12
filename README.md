@@ -1,2 +1,2 @@
-# resume-example
-Example resume for markdown-resume project
+# Resume Example
+Example project for markdown-to-PDF resume
