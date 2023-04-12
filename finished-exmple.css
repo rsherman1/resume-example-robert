@@ -1,0 +1,51 @@
+/* All Styles inside print media query */
+@media print {
+    
+    /* 
+    Font familes have to be local system fonts
+    REF: https://css-tricks.com/snippets/css/font-stacks/
+    */
+    body {
+        font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+    }
+    
+    /* Horizontal rules */
+    hr {
+        border: 0;
+        border-bottom: 2px dotted #ccc;
+        background: #999;
+        width: 50%;
+    }
+
+    /* Dates */
+    span {
+        float: right;
+        font-style: italic;
+        font-size: .5em;        
+    }
+
+    /* Disable/Hide Image */
+    img {
+        display: none;
+    }
+    
+    /* Show URLs to Social Media */
+    a[href]::after {
+        content: "👉" attr(href)
+    }
+
+    /* Put columns on bio */
+    div {
+        columns: 2;
+    }
+
+    /* Force page break */
+    .breakafter {
+        page-break-after: always;
+    }
+
+    /* Set page margins in CSS */
+    @page {
+        margin: .25in;        
+    }
+}
