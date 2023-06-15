@@ -10,8 +10,7 @@
 ---
 
 ## Social Media
-[![Linked In](linked-in.png) LinkedIn](https://linkedin.com/richardhendricks) 
-[![GitHub](github.png) GitHub](https://linkedin.com/richardhendricks)
+[![Linked In](linked-in.png) LinkedIn](https://linkedin.com/robertksherman) 
 
 ---
 
