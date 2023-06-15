@@ -47,11 +47,14 @@ Global movement of free coding clubs for young people.
 
 ## Education
 
-### University of Oklahoma, BA Information Technology <span>2011 -- 2014</span>
+### Eastern Washington University, Certificate, User Experience Design <span>2020 - 2023</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
+### Eastern Washington University, Bachelor of Design, Visual Communication Design <span>2020 - 2023</span>
+
+### Diablo Valley College, Associate of Arts, Graphic Design <span>2018 - 2020</span>
+
 
 ## Skills
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - User Experience Design: Wireframing, Figma, Balsamiq
+ - Web Design: HTML, CSS, JavaScript
+ - Graphic Design: Adobe Creative Suite, Publication Design, Logo Design 
