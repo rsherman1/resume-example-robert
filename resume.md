@@ -23,6 +23,14 @@
 
 <div class="breakafter"></div>
 
+## Education
+
+### Eastern Washington University, Certificate, User Experience Design <span>2020 - 2023</span>
+
+### Eastern Washington University, Bachelor of Design, Visual Communication Design <span>2020 - 2023</span>
+
+### Diablo Valley College, Associate of Arts, Graphic Design <span>2018 - 2020</span>
+
 ## Experience
 
 ### Customer Service Associate – Outside Lawn and Garden, Lowe’s Home Improvement, Spokane Valley, WA <span>05/2022 – 09/2022</span>
@@ -38,15 +46,6 @@ In this position, I performed daily retail merchandising duties. These duties in
 In this position, I received and assembled orders and found corresponding products in the Amazon warehouse. Additionally, I checked products for quality assurance and removed damaged items from inventory, and I stocked new inventory in the warehouse.
 
 ---
-
-## Education
-
-### Eastern Washington University, Certificate, User Experience Design <span>2020 - 2023</span>
-
-### Eastern Washington University, Bachelor of Design, Visual Communication Design <span>2020 - 2023</span>
-
-### Diablo Valley College, Associate of Arts, Graphic Design <span>2018 - 2020</span>
-
 
 ## Skills
  - User Experience Design: Wireframing, Figma, Balsamiq
