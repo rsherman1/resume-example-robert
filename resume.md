@@ -37,12 +37,6 @@ compression.
  - Optimized an algorithm that holds the current world record for Weisman Scores
 
 
-### Teacher, CoderDojo <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
-- Awarded _Teacher of the Month_
-
 ---
 
 ## Education
@@ -58,3 +52,4 @@ Global movement of free coding clubs for young people.
  - User Experience Design: Wireframing, Figma, Balsamiq
  - Web Design: HTML, CSS, JavaScript
  - Graphic Design: Adobe Creative Suite, Publication Design, Logo Design 
+ - Other: Customer Service, Visual Merchandisingrty
