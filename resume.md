@@ -7,11 +7,6 @@
 
 ---
 
-## Social Media
-[![Linked In](linked-in.png) LinkedIn](https://linkedin.com/robertksherman) 
-
----
-
 ## Biography
 
 <div>I am a visual designer with a Bachelor of Design from Eastern Washington University.</div>

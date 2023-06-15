@@ -1,5 +1,5 @@
 /* All Styles inside print media query */
-@media print {
+@media print 
     
     /* 
     Font familes have to be local system fonts
@@ -42,4 +42,3 @@
     @page {
         margin: .25in;        
     }
-}
