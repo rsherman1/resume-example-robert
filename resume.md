@@ -1,12 +1,11 @@
 # Richard Hendricks
 
-![Richard Hendricks](me.webp)
+![Richard Hendricks]
 
 ## Contact
-- [Email Me](mailto:richard.hendriks@mail.com)
-- (912) 555-4321
-- [My Website](http://richardhendricks.example.com)
-- San Francisco, CA
+- [Email Me](mailto:robert.sherman675@mail.com)
+- (425) 753-7993
+- Bellevue, WA
 
 ---
 
@@ -18,7 +17,7 @@
 
 ## Biography
 
-<div>CEO and Software Engineer with knowledge of applied information theory, including optimizing lossless compression schema of both the length-limited and adaptive variants.Richard invented and built the start-up Pied Piper. After winning the TechCrunch Disrupt hackathon at the end of the first season, and receiving more funding from investors, Richard is even more determined to make Pied Piper a company different from Hooli. After winning the competition, Richard is more determined to put Pied Piper's name on the map - constantly making new applications for his algorithm like a videochat and artificial intelligence, but his poor people skills unpredictable-but-frequent mood swings, and lack of business training make him a poor CEO - and he constantly gets into spats with other people for small reasons as a result.</div>
+<div>I am a visual designer with a Bachelor of Design from Eastern Washington University.</div>
 
 ---
 
