@@ -25,17 +25,17 @@
 
 ## Experience
 
-### CEO/President, Pied Piper <span>Dec 2013 -- Dec 2014</span>
+### Customer Service Associate – Outside Lawn and Garden, Lowe’s Home Improvement, Spokane Valley, WA <span>05/2022 – 09/2022</span>
 
-**Pied Piper** is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless
-compression.
+In this position, I assisted customers and helped maintain merchandise in the garden center. I helped customers locate and understand products and helped load heavy items into their vehicles. I also watered plants, stocked shelves, and spotted employees using the forklift.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### Merchandising Service Associate (MSA), Lowe’s Home Improvement, Issaquah, WA <span>06/2020 - 09/2021</span>
 
+In this position, I performed daily retail merchandising duties. These duties included servicing (maintaining) aisles and bays, stocking shelves, ordering and assembling signage and displays, and performing merchandising resets and reflows while following an official planogram. I also assisted customers on the sales floor when needed.
+
+### Warehouse Associate/Picker, Amazon Prime Now, Kirkland, WA <span>09/2016 - 05/2017</span>
+
+In this position, I received and assembled orders and found corresponding products in the Amazon warehouse. Additionally, I checked products for quality assurance and removed damaged items from inventory, and I stocked new inventory in the warehouse.
 
 ---
 
